@@ -85,7 +85,7 @@ For Switcher cover control devices (Switcher Runner, Switcher Runner S11, Switch
 
 ## Lights
 
-For Switcher light control devices (Switcher Runner S11, Switcher Runner S12 and Switcher Lights) the integration allows you to control its lights on/off state.
+For Switcher light control devices (Switcher Runner S11, Switcher Runner S12, and Switcher Lights), the integration allows you to control its lights on/off state.
   
 ## Sensors
 
