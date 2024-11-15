@@ -103,7 +103,7 @@ For Switcher power control devices (Switcher Power Plug, Switcher Touch, Switche
 For Switcher Breeze the integration provides the following sensor:
 | Sensor Name           | Description                                            | Example           |
 | --------------------- | ------------------------------------------------------ | ----------------- |
-| `Current Temperature` | The current temperature in celsius                     | 25.0 °C           |
+| `Current temperature` | The current temperature in celsius                     | 25.0 °C           |
 
 ## Actions
 
